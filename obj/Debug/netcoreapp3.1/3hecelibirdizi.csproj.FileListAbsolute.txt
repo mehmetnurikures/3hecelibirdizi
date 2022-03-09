@@ -1,0 +1,14 @@
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.exe
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.deps.json
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.runtimeconfig.json
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.runtimeconfig.dev.json
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.dll
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\bin\Debug\netcoreapp3.1\3hecelibirdizi.pdb
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.AssemblyInfoInputs.cache
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.AssemblyInfo.cs
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.csproj.CoreCompileInputs.cache
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.dll
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.pdb
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.genruntimeconfig.cache
+C:\Users\mnuri\source\repos\3hecelibirdizi\3hecelibirdizi\obj\Debug\netcoreapp3.1\3hecelibirdizi.csproj.AssemblyReference.cache
